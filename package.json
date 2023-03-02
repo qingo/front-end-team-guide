@@ -2,7 +2,7 @@
   "name": "front-end-team-guide",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base=/front-end-team-guide/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
